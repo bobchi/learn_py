@@ -6,12 +6,13 @@ import chardet  # 自动检测编码的包
 from bs4 import BeautifulSoup
 
 page1_url = 'http://fund.eastmoney.com/fund.html'
+page2_url = 'http://fund.eastmoney.com/Data/Fund_JJJZ_Data.aspx?t=1&lx=1&letter=&gsid=&text=&sort=zdf,desc&page=2,200&dt=1534979287462&atfc=&onlySale=0'
 
 def get_html(page_url):
     response = request.urlopen(page_url)
     raw_html = response.read()
     get_encoding = chardet.detect(raw_html)['encoding']  # 检测网页编码
-    return raw_html.decode(get_encoding)
+    return raw_html.decode(get_encoding, 'ignore')
 
 def get_page_count(html):
     soup = BeautifulSoup(html, 'html.parser')
