@@ -12,4 +12,16 @@ if __name__ == '__main__':
     bm.register('get_user')
     bm.connect()
     my_list = bm.get_user()
-    
+
+    p1 = Process(target=add_user1, args=(my_list,))
+    p1.start()
+
+    p2 = Process(target=add_user2, args=(my_list,))
+    p2.start()
+    print(my_list)
+
+    p1.join()
+    p2.join()
+
+    print(my_list)
+
