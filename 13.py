@@ -10,8 +10,8 @@ def me(func):
 def age(age, sex="女"):
     print(str(age)+'岁，性别是'+ sex)
 
-# info = me(age)
-# age(23, '男')
+info = me(age)
+age(23, '男')
 
 def man(name):
     def show_bao(func):

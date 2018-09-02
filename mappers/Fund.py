@@ -7,10 +7,10 @@ metadata = Base.metadata
 
 
 class Fund(Base):
-    __tablename__ = 'fund'
+    __tablename__ = 'myfund'
 
-    f_code = Column(String(20), primary_key=True)
-    f_name = Column(String(20))
-    nav = Column(DECIMAL(5, 4))
+    fcode = Column(String(20), primary_key=True)
+    fname = Column(String(20))
+    NAV = Column(DECIMAL(5, 4))
     accnav = Column(DECIMAL(5, 4))
     updated = Column(DateTime)

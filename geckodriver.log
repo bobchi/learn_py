@@ -1,0 +1,95 @@
+1535095260176	geckodriver	INFO	geckodriver 0.21.0
+1535095260186	geckodriver	INFO	Listening on 127.0.0.1:9980
+1535095263054	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.hTkMST6G28Kc"
+*** You are running in headless mode.
+1535095568650	geckodriver	INFO	geckodriver 0.21.0
+1535095568661	geckodriver	INFO	Listening on 127.0.0.1:10265
+1535095571513	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.Zpga2BUKB1UK"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+1535095571979	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://addoninstaller/common.js, line 109: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 109: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28608, Chrome_ChildThread] WARUnable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+1535095573119	Marionette	INFO	Listening on port 10273
+1535095573143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535095573188	Marionette	DEBUG	Register listener.js for window 4294967297
+1535095573215	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1535095573444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1535095573444	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1535095573616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1535095573663	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E&json=1&p=3&sid=1439_21125_26920_20930&req=2&csor=3&pwd=%E9%86%89%E6%B8%85&cb=jQuery110206581577878500592_1535095573538&_=1535095573541, line 1: TypeError: jQuery110206581577878500592_1535095573538 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0&json=1&p=3&sid=1439_21125_26920_20930&req=2&csor=5&pwd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97&cb=jQuery110206581577878500592_1535095573538&_=1535095573543, line 1: TypeError: jQuery110206581577878500592_1535095573538 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89&json=1&p=3&sid=1439_21125_26920_20930&req=2&csor=1&cb=jQuery110206581577878500592_1535095573538&_=1535095573539, line 1: TypeError: jQuery110206581577878500592_1535095573538 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97&json=1&p=3&sid=1439_21125_26920_20930&req=2&csor=4&pwd=%E9%86%89%E6%B8%85%E9%A3%8E&cb=jQuery110206581577878500592_1535095573538&_=1535095573542, line 1: TypeError: jQuery110206581577878500592_1535095573538 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0%E5%BA%97&json=1&p=3&sid=1439_21125_26920_20930&req=2&csor=6&pwd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0&cb=jQuery110206581577878500592_1535095573538&_=1535095573544, line 1: TypeError: jQuery110206581577878500592_1535095573538 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85&json=1&p=3&sid=1439_21125_26920_20930&req=2&csor=2&pwd=%E9%86%89&cb=jQuery110206581577878500592_1535095573538&_=1535095573540, line 1: TypeError: jQuery110206581577878500592_1535095573538 is not a function
+1535095573983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1535095584479	geckodriver	INFO	geckodriver 0.21.0
+1535095584489	geckodriver	INFO	Listening on 127.0.0.1:10330
+1535095587345	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.I4nJIratDSXr"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+1535095587809	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://addoninstaller/common.js, line 109: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 109: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28564, Chrome_ChildThreadUnable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+1535095589003	Marionette	INFO	Listening on port 10341
+1535095589455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535095589495	Marionette	DEBUG	Register listener.js for window 4294967297
+1535095589508	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1535095589756	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1535095589756	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1535095589927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1535095589965	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89&json=1&p=3&sid=1441_21088_18559_26350_26924_22073&req=2&csor=1&cb=jQuery1102019201521463140858_1535095589861&_=1535095589862, line 1: TypeError: jQuery1102019201521463140858_1535095589861 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85&json=1&p=3&sid=1441_21088_18559_26350_26924_22073&req=2&csor=2&pwd=%E9%86%89&cb=jQuery1102019201521463140858_1535095589861&_=1535095589863, line 1: TypeError: jQuery1102019201521463140858_1535095589861 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E&json=1&p=3&sid=1441_21088_18559_26350_26924_22073&req=2&csor=3&pwd=%E9%86%89%E6%B8%85&cb=jQuery1102019201521463140858_1535095589861&_=1535095589864, line 1: TypeError: jQuery1102019201521463140858_1535095589861 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97&json=1&p=3&sid=1441_21088_18559_26350_26924_22073&req=2&csor=4&pwd=%E9%86%89%E6%B8%85%E9%A3%8E&cb=jQuery1102019201521463140858_1535095589861&_=1535095589865, line 1: TypeError: jQuery1102019201521463140858_1535095589861 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0&json=1&p=3&sid=1441_21088_18559_26350_26924_22073&req=2&csor=5&pwd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97&cb=jQuery1102019201521463140858_1535095589861&_=1535095589866, line 1: TypeError: jQuery1102019201521463140858_1535095589861 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0%E5%BA%97&json=1&p=3&sid=1441_21088_18559_26350_26924_22073&req=2&csor=6&pwd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0&cb=jQuery1102019201521463140858_1535095589861&_=1535095589867, line 1: TypeError: jQuery1102019201521463140858_1535095589861 is not a function
+1535095590273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1535098695160	geckodriver	INFO	geckodriver 0.21.0
+1535098695171	geckodriver	INFO	Listening on 127.0.0.1:6962
+1535098697957	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.hLuhqADcoQ6d"
+*** You are running in headless mode.
+1535099497503	geckodriver	INFO	geckodriver 0.21.0
+1535099497515	geckodriver	INFO	Listening on 127.0.0.1:7953
+1535099500398	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.c9gGptOdVbBP"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+Attempt to load overlay chrome://addoninstaller/content/overlay.xul into chrome://browser/content/browser.xul
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+1535099502706	Marionette	INFO	Listening on port 7980
+1535099503133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0&json=1&p=3&sid=1462_26965_21098_26350_22075&req=2&csor=5&pwd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97&cb=jQuery1102025778835399531475_1535099503570&_=1535099503576, line 1: TypeError: jQuery1102025778835399531475_1535099503570 is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+649579	geckodriver	INFO	Listening on 127.0.0.1:8157
+1535099652391	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.eNHPgilNHm9k"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+Attempt to load overlay chrome://addoninstaller/content/overlay.xul into chrome://browser/content/browser.xul
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+1535099653895	Marionette	INFO	Listening on port 8166
+1535099654012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89&json=1&p=3&sid=1468_21104_18560_26350_26925_20927&req=2&csor=1&cb=jQuery110208070145766210748_1535099654522&_=1535099654524, line 1: TypeError: jQuery110208070145766210748_1535099654522 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97&json=1&p=3&sid=1468_21104_18560_26350_26925_20927&req=2&csor=4&pwd=%E9%86%89%E6%B8%85%E9%A3%8E&cb=jQuery110208070145766210748_1535099654522&_=1535099654527, line 1: TypeError: jQuery110208070145766210748_1535099654522 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85&json=1&p=3&sid=1468_21104_18560_26350_26925_20927&req=2&csor=2&pwd=%E9%86%89&cb=jQuery110208070145766210748_1535099654522&_=1535099654525, line 1: TypeError: jQuery110208070145766210748_1535099654522 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E&json=1&p=3&sid=1468_21104_18560_26350_26925_20927&req=2&csor=3&pwd=%E9%86%89%E6%B8%85&cb=jQuery110208070145766210748_1535099654522&_=1535099654526, line 1: TypeError: jQuery110208070145766210748_1535099654522 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0&json=1&p=3&sid=1468_21104_18560_26350_26925_20927&req=2&csor=5&pwd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97&cb=jQuery110208070145766210748_1535099654522&_=1535099654528, line 1: TypeError: jQuery110208070145766210748_1535099654522 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0%E5%BA%97&json=1&p=3&sid=1468_21104_18560_26350_26925_20927&req=2&csor=6&pwd=%E9%86%89%E6%B8%85%E9%A3%8E%E6%97%97%E8%88%B0&cb=jQuery110208070145766210748_1535099654522&_=1535099654529, line 1: TypeError: jQuery110208070145766210748_1535099654522 is not a function

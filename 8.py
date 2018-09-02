@@ -1,11 +1,14 @@
 from bs4 import BeautifulSoup
 
-with open('./files/2.txt', 'rb') as f:
+with open('./htmls/page_1.txt', 'rb') as f:
     html = f.read().decode('utf8')
     f.close()
 
 soup = BeautifulSoup(html, 'html.parser')
-f_codes = soup.find('table', id='oTable').tbody.find_all('td', 'bzdm')
+fund_table = f_codes = soup.find('table', id='oTable')
+f_codes = fund_table.tbody.find_all('td', 'bzdm')
+fund_date = fund_table.thead.find('td', colspan='2').get_text()
+print(fund_date)
 result = ()
 for f_code in f_codes:
     result += ({'code': f_code.get_text()
