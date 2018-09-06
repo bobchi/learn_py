@@ -1,0 +1,247 @@
+
+        <table class="w782 comm lsjz">
+            <thead>
+                <tr>
+                    <th class="first">净值日期</th>
+                    
+                        <th>单位净值</th>
+                    <th>累计净值</th>
+                    
+                             <th>日增长率<img id="jjjzTip" style="position: relative;top: 3px;left: 3px;" data-html="true" data-placement="bottom" title="" src="http://j5.dfcfw.com/image/201307/20130708102440.gif" data-original-title="日增长率为空原因如下：<br>1、非工作日净值不参与日增长率计算(灰色数据行)。<br>2、上一交易日净值未披露，日增长率无法计算。"></th>
+                    
+                     
+
+                    <th>申购状态</th>
+                    <th>赎回状态</th>
+                    <th class="tor last">分红送配</th>
+                </tr>
+            </thead>
+            <tbody>
+                 
+                  <tr class="">
+                      <td>2017-08-17</td>
+                      <td class="tor bold">1.0079
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0079</td>
+                      <td class="tor bold red">0.17%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-16</td>
+                      <td class="tor bold">1.0062
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0062</td>
+                      <td class="tor bold red">0.16%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-15</td>
+                      <td class="tor bold">1.0046
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0046</td>
+                      <td class="tor bold red">0.04%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-14</td>
+                      <td class="tor bold">1.0042
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0042</td>
+                      <td class="tor bold red">0.01%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-11</td>
+                      <td class="tor bold">1.0041
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0041</td>
+                      <td class="tor bold red">0.01%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-10</td>
+                      <td class="tor bold">1.0040
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0040</td>
+                      <td class="tor bold red">0.01%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-09</td>
+                      <td class="tor bold">1.0039
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0039</td>
+                      <td class="tor bold red">0.07%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-08</td>
+                      <td class="tor bold">1.0032
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0032</td>
+                      <td class="tor bold red">0.20%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-07</td>
+                      <td class="tor bold">1.0012
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0012</td>
+                      <td class="tor bold red">0.01%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-08-04</td>
+                      <td class="tor bold">1.0011
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0011</td>
+                      <td class="tor bold bck">--</td>
+                      
+                          
+                        <td>封闭期</td>
+                      <td>封闭期</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-07-28</td>
+                      <td class="tor bold">1.0007
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0007</td>
+                      <td class="tor bold bck">--</td>
+                      
+                          
+                        <td>封闭期</td>
+                      <td>封闭期</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-07-21</td>
+                      <td class="tor bold">1.0003
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0003</td>
+                      <td class="tor bold bck">--</td>
+                      
+                          
+                        <td>封闭期</td>
+                      <td>封闭期</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-07-14</td>
+                      <td class="tor bold">1.0000
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0000</td>
+                      <td class="tor bold bck">--</td>
+                      
+                          
+                        <td>封闭期</td>
+                      <td>封闭期</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2017-07-07</td>
+                      <td class="tor bold">1.0000
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0000</td>
+                      <td class="tor bold bck">--</td>
+                      
+                          
+                        <td>封闭期</td>
+                      <td>封闭期</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                
+            </tbody>
+        </table>
+        

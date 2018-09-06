@@ -1,0 +1,343 @@
+
+        <table class="w782 comm lsjz">
+            <thead>
+                <tr>
+                    <th class="first">净值日期</th>
+                    
+                        <th>单位净值</th>
+                    <th>累计净值</th>
+                    
+                             <th>日增长率<img id="jjjzTip" style="position: relative;top: 3px;left: 3px;" data-html="true" data-placement="bottom" title="" src="http://j5.dfcfw.com/image/201307/20130708102440.gif" data-original-title="日增长率为空原因如下：<br>1、非工作日净值不参与日增长率计算(灰色数据行)。<br>2、上一交易日净值未披露，日增长率无法计算。"></th>
+                    
+                     
+
+                    <th>申购状态</th>
+                    <th>赎回状态</th>
+                    <th class="tor last">分红送配</th>
+                </tr>
+            </thead>
+            <tbody>
+                 
+                  <tr class="">
+                      <td>2018-08-08</td>
+                      <td class="tor bold">0.9578
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">0.9578</td>
+                      <td class="tor bold grn">-2.59%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-08-07</td>
+                      <td class="tor bold">0.9833
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">0.9833</td>
+                      <td class="tor bold red">4.48%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-08-06</td>
+                      <td class="tor bold">0.9411
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">0.9411</td>
+                      <td class="tor bold grn">-1.73%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-08-03</td>
+                      <td class="tor bold">0.9577
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">0.9577</td>
+                      <td class="tor bold grn">-3.68%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-08-02</td>
+                      <td class="tor bold">0.9943
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">0.9943</td>
+                      <td class="tor bold grn">-0.22%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-08-01</td>
+                      <td class="tor bold">0.9965
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">0.9965</td>
+                      <td class="tor bold grn">-0.18%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-31</td>
+                      <td class="tor bold">0.9983
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">0.9983</td>
+                      <td class="tor bold grn">-0.62%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-30</td>
+                      <td class="tor bold">1.0045
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0045</td>
+                      <td class="tor bold grn">-1.89%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-27</td>
+                      <td class="tor bold">1.0238
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0238</td>
+                      <td class="tor bold grn">-1.08%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-26</td>
+                      <td class="tor bold">1.0350
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0350</td>
+                      <td class="tor bold grn">-2.74%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-25</td>
+                      <td class="tor bold">1.0642
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0642</td>
+                      <td class="tor bold red">0.52%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-24</td>
+                      <td class="tor bold">1.0587
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0587</td>
+                      <td class="tor bold grn">-0.06%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-23</td>
+                      <td class="tor bold">1.0593
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0593</td>
+                      <td class="tor bold red">2.84%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-20</td>
+                      <td class="tor bold">1.0300
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0300</td>
+                      <td class="tor bold red">2.96%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-19</td>
+                      <td class="tor bold">1.0004
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0004</td>
+                      <td class="tor bold grn">-0.33%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-18</td>
+                      <td class="tor bold">1.0037
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0037</td>
+                      <td class="tor bold grn">-2.98%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-17</td>
+                      <td class="tor bold">1.0345
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0345</td>
+                      <td class="tor bold red">1.44%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-16</td>
+                      <td class="tor bold">1.0198
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0198</td>
+                      <td class="tor bold red">1.12%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-13</td>
+                      <td class="tor bold">1.0085
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0085</td>
+                      <td class="tor bold red">0.26%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                 
+                  <tr class="">
+                      <td>2018-07-12</td>
+                      <td class="tor bold">1.0059
+                            
+                      </td>
+
+                      
+                          <td class="tor bold">1.0059</td>
+                      <td class="tor bold red">4.55%</td>
+                      
+                          
+                        <td>开放申购</td>
+                      <td>开放赎回</td>
+                      <td class="red unbold"></td>
+                  </tr>
+                
+            </tbody>
+        </table>
+        
