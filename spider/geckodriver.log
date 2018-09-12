@@ -18,9 +18,10 @@ Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpat
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536215673362	Marionette	INFO	Listening on port 12450
 1536215673662	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536215819106	geckodriver	INFO	geckodriver 0.21.0
-1536215819113	geckodriver	INFO	Listening on 127.0.0.1:12949
-1536215822148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.4lC44y8j4Fzx"
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 54: ReferenceError: JsLoader is not defined
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+\rust_mozprofile.4lC44y8j4Fzx"
 *** You are running in headless mode.
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
@@ -28,9 +29,9 @@ Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpat
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536215824857	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536215837295	geckodriver	INFO	geckodriver 0.21.0
-1536215837302	geckodriver	INFO	Listening on 127.0.0.1:13048
-1536215840327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.mKVJY6yaLqdM"
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 54: ReferenceError: JsLoader is not defined
+remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.mKVJY6yaLqdM"
 *** You are running in headless mode.
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
@@ -38,9 +39,9 @@ Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpat
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536215843035	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536215957168	geckodriver	INFO	geckodriver 0.21.0
-1536215957176	geckodriver	INFO	Listening on 127.0.0.1:13452
-1536215960209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.AvONIHNHf2yl"
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 54: ReferenceError: JsLoader is not defined
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 54: ReferenceError: JsLoader is not defined
+ground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.AvONIHNHf2yl"
 *** You are running in headless mode.
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
@@ -48,9 +49,9 @@ Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpat
 Unable to read VR Path RegiUnable to read VR Path Registry from sC:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 try from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536215962919	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536216078239	geckodriver	INFO	geckodriver 0.21.0
-1536216078239	geckodriver	INFO	Listening on 127.0.0.1:14242
-1536216081272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.mJtqbgEw2dPj"
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 54: ReferenceError: JsLoader is not defined
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.mJtqbgEw2dPj"
 *** You are running in headless mode.
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
@@ -58,9 +59,8 @@ Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpat
 Unable to read VR Path Registry fromUnable to read VR Path Registry from  C:\UC:\Users\basers\o\Abao\AppData\Local\openvr\openvrpaths.vrpathppData\Local\openvr\openvrpaths.vrpath
 
 1536216083981	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536216365935	geckodriver	INFO	geckodriver 0.21.0
-1536216365942	geckodriver	INFO	Listening on 127.0.0.1:2934
-1536216368973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.CUBU417Cl1GV"
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 54: ReferenceError: JsLoader is not defined
+mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.CUBU417Cl1GV"
 *** You are running in headless mode.
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
@@ -68,29 +68,27 @@ Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpat
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536216370616	Marionette	INFO	Listening on port 2962
 1536216371081	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536216664692	geckodriver	INFO	geckodriver 0.21.0
-1536216664699	geckodriver	INFO	Listening on 127.0.0.1:5475
-1536216667713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.WTR1tMNUOc7q"
-*** You are running in headless mode.
-Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536216669112	Marionette	INFO	Listening on port 5495
 1536216669323	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536216719974	geckodriver	INFO	geckodriver 0.21.0
-1536216719982	geckodriver	INFO	Listening on 127.0.0.1:6188
-1536216723014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.2lqvrx8DhXXg"
-*** You are running in headless mode.
-Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 54: ReferenceError: JsLoader is not defined
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+ta\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536216724324	Marionette	INFO	Listening on port 6204
 1536216724622	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536216797158	geckodriver	INFO	geckodriver 0.21.0
-1536216797168	geckodriver	INFO	Listening on 127.0.0.1:7070
-1536216800176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.cenEG0VqCrKr"
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
+ile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.cenEG0VqCrKr"
 *** You are running in headless mode.
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
@@ -98,9 +96,8 @@ Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpat
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536216801470	Marionette	INFO	Listening on port 7097
 1536216801785	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536216842787	geckodriver	INFO	geckodriver 0.21.0
-1536216842795	geckodriver	INFO	Listening on 127.0.0.1:7829
-1536216845828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.359nKi7jh7kD"
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 54: ReferenceError: JsLoader is not defined
+mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bao\\AppData\\Local\\Temp\\rust_mozprofile.359nKi7jh7kD"
 *** You are running in headless mode.
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
@@ -108,3 +105,4 @@ Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpat
 Unable to read VR Path Registry from C:\Users\bao\AppData\Local\openvr\openvrpaths.vrpath
 1536216847137	Marionette	INFO	Listening on port 7849
 1536216847436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://fund.eastmoney.com/fund_favor_quote2_beta.html, line 60: TypeError: jsonQuotation[qi].split is not a function
