@@ -1,7 +1,8 @@
 import pandas
 
 if __name__ == '__main__':
-    pd = pandas.read_csv('./csv/004616.csv', dtype={'fcode': pandas.np.str_}, index_col='fdate', parse_dates=['fdate'])
+    # 读取表格，让fcode以字符串显示，索引列是fdate
+    pd = pandas.read_csv('../csv/004616.csv', dtype={'fcode': pandas.np.str_}, index_col='fdate', parse_dates=['fdate'])
     # print(pd.sort_index)  # 日期降序排列
     # pd.index = pandas.to_datetime(pd.index)
     # print(pd['2017'].sort_index())  # 指定年份升序排列
