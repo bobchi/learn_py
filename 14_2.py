@@ -15,8 +15,8 @@ page_text = driver.find_element_by_id('pager').find_element_by_xpath('span[@clas
 
 page_count = ''.join(filter(str.isdigit, page_text))
 
-# 循环获取页面数据
 
+# 循环获取页面数据
 def get_data(my_range):
     for x in my_range:
         tonum = driver.find_element_by_id('tonum')  # 获取文本框
