@@ -17,7 +17,8 @@ if __name__ == '__main__':
     f20178_new = pd.merge(f20178_date, f20178, how='left', on=['fdate'])
     f20188_new = pd.merge(f20188_date, f20188, how='left', on=['fdate'])
     # 合并
-    print(pd.concat([f20178_new, f20188_new], axis=1))
+    res = pd.concat([f20178_new, f20188_new], axis=1)
+    print(res.fillna(0))
     # print(f20178_new)
 
 
